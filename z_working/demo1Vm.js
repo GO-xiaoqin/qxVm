@@ -1,3 +1,13 @@
+/*
+ * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @Date: 2024-10-30 11:10:13
+ * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @LastEditTime: 2024-10-30 13:50:38
+ * @FilePath: /qxVm/z_working/demo1Vm.js
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
+ */
 const fs = require('fs');
 const QXVM_GENERATE = require('../qxVm_sanbox/qxVm.sanbox');
 
@@ -9,7 +19,7 @@ function ReadCode(name, dir) {
 }
 
 
-const js_code = ReadCode(`/demo.js`);
+const js_code = ReadCode(`/demo1.js`);
 const user_config = {
     isTest:true,
     compress: false,
